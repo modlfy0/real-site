@@ -46,9 +46,9 @@ body {
      line-height: 1.80857;
      font-weight: normal;
      overflow-x: hidden;
-     padding-top: 75px;
+     padding-top: auto;
      
-      }
+    }
 
 
 a {
@@ -233,6 +233,9 @@ button {
     background-size: 100%;
     top: 0;
     position: fixed;
+    top: 0;
+
+
 }
 .bg-light {
     background-color: transparent !important;

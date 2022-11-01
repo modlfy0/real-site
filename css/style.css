@@ -46,7 +46,10 @@ body {
      line-height: 1.80857;
      font-weight: normal;
      overflow-x: hidden;
-}
+     padding-top: 75px;
+     
+      }
+
 
 a {
      color: #1f1f1f;
@@ -228,6 +231,8 @@ button {
     background-image: url(../images/header-bg.png);
     height: auto;
     background-size: 100%;
+    top: 0;
+    position: fixed;
 }
 .bg-light {
     background-color: transparent !important;

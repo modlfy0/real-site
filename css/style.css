@@ -46,7 +46,6 @@ body {
      line-height: 1.80857;
      font-weight: normal;
      overflow-x: hidden;
-     padding-top: auto;
      
     }
 
@@ -232,8 +231,7 @@ button {
     height: auto;
     background-size: 100%;
     top: 0;
-    position: fixed;
-    top: 0;
+
 
 
 }

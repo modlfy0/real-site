@@ -1,0 +1,17 @@
+.lost {
+    counter-reset : numbering;
+    list-style-type:none;
+ 
+}
+ 
+.lost .item:before{
+    counter-increment : numbering; 
+    content : counter(numbering);
+    margin-right:10px;
+}
+.flexbox_wrapping{
+    flex-wrap: wrap;
+}
+.mr{
+    justify-content: center;
+}

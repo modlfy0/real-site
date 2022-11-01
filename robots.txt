@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://eco-g-team-recycling.netlify.app/sitemap.xmlg

@@ -1,8 +1,6 @@
 <xml xmlns:o="urn:schemas-microsoft-com:office:office">
  <o:MainFile HRef="../인라인%20이송펌프%20A.htm"/>
- <o:File HRef="5-1.기계설비%20이력카드%20123개%20-%20한라_30038_image001.png"
-  PublicationID="5-1.기계설비 이력카드 123개 - 한라_30038"/>
- <o:File HRef="5-1.기계설비%20이력카드%20123개%20-%20한라_30038_image002.png"
-  PublicationID="5-1.기계설비 이력카드 123개 - 한라_30038"/>
+ <o:File HRef="기기이력대장_23132_image001.png" PublicationID="기기이력대장_23132"/>
+ <o:File HRef="기기이력대장_23132_image002.png" PublicationID="기기이력대장_23132"/>
  <o:File HRef="filelist.xml"/>
 </xml>
